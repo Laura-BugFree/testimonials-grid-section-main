@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop (/screenshots/desktop.png) 
-- Mobile (/screenshots/mobile.png)
+[](/screenshots/desktop.png) 
+[](/screenshots/mobile.png)
 
 ### Links
 
