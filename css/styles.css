@@ -123,7 +123,7 @@ Styling
 }
 
 .bg-primary {
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(../images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: 90% top;
     background-size: 125px;
